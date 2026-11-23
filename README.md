@@ -15,6 +15,10 @@ We further propose MAFDNet, which integrates multi-view spatial forensic statist
 
 <img width="1330" height="749" alt="image" src="https://github.com/user-attachments/assets/dfd7b802-ebc6-47e5-a40f-0e560dd1e9f1" />
 
+## 📊 Evaluation
+<img width="1023" height="798" alt="image" src="https://github.com/user-attachments/assets/6f72e12c-5e3a-481c-ad0b-91d4cc8c2cdf" />
+<img width="1024" height="551" alt="image" src="https://github.com/user-attachments/assets/e93f8ae0-0e72-4fe5-afc2-c26d2313322c" />
+
 ## 😄 Acknowledgement
 
 Part of this codebase is adapted from [AIGIBench](https://github.com/HorizonTEL/AIGIBench). Huge thanks to the original authors for sharing their excellent work!
