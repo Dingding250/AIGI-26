@@ -22,8 +22,13 @@ We further propose MAFDNet, which integrates multi-view spatial forensic statist
 ## 😄 Acknowledgement
 
 **Code:**
+
 [AIGIBench](https://github.com/HorizonTEL/AIGIBench). 
+
 **Datastes：**
+
 [Treasure](https://github.com/ICTMCG/Fleet).
+
 [DailyBench](https://dailybench.github.io/).
+
 Huge thanks to the original authors for sharing their excellent work!
